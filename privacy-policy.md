@@ -235,7 +235,7 @@ it from time to time.
 The most recent version of this privacy policy will always be available at the
 following URL: https://github.com/bsoyka/policy/blob/main/privacy-policy.md
 
-You can track changes to th is privacy policy at the following URL:
+You can track changes to this privacy policy at the following URL:
 https://github.com/bsoyka/policy/commits/main/privacy-policy.md
 
 ## Contacting Me
