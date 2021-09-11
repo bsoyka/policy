@@ -203,13 +203,6 @@ understand how my sites and services are being used and to improve them.
 I **do not** and **will never** sell your personal information for monetary or
 other consideration.
 
-Please note: The California Consumer Privacy Act of 2018 ("CCPA") requires
-businesses to state in their privacy policy whether or not they disclose
-personal information in exchange for monetary or other valuable consideration.
-While CCPA only covers California residents, we voluntarily extend its core
-rights for people to control their data to all of our users, not just those who
-live in California.
-
 ## Use of Cookies
 
 Cookies are small text files that websites often store on computer hard drives
