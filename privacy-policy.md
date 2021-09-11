@@ -48,8 +48,9 @@ The following personal information is automatically collected from you when you
 use my sites or open emails I send to you:
 
 - Location information as associated with your IP address
-- Activity information about your use of my sites, such as the content you view,
-  how often you use my services, and your preferences
+- Activity and demographic information about your use of my sites, such as the
+  content you view, how often you use my services, how you access my services,
+  and your preferences
 - Usage, viewing, technical, and device data when you visit my sites or open
   emails I send, including your browser or device type, unique device
   identifier, and IP address
