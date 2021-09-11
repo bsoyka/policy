@@ -211,6 +211,9 @@ or mobile devices of visitors. I do not directly use cookies, but
 to collect information about you when you visit my sites or open emails I send
 to you.
 
+I may ask you to consent to the use of cookies on your computer or mobile
+device. This preference will be stored in a cookie if you respond to it.
+
 ### Do Not Track
 
 "Do Not Track" (DNT) is a privacy preference you can set in your browser if you
