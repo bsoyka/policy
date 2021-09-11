@@ -166,13 +166,13 @@ of the United States or the European Union.
 The following is a list of service providers that process personal information
 on my behalf as descibed above:
 
-| Service provider | Description of processing                         | Location of processing |
-| ---------------- | ------------------------------------------------- | ---------------------- |
-| Cloudflare       | Used to protect my sites and services             | United States          |
-| Google Analytics | Used to analyze and improve my sites and services | United States          |
-| Google Forms     | Used to collect information from my users         | United States          |
-| Mailchimp        | Used to send emails to my users                   | United States          |
-| Medium           | Used to share my articles and other content       | United States          |
+| Service provider | Description of processing                                   | Location of processing |
+| ---------------- | ----------------------------------------------------------- | ---------------------- |
+| Cloudflare       | Used to protect, analyze, and improve my sites and services | United States          |
+| Google Analytics | Used to analyze and improve my sites and services           | United States          |
+| Google Forms     | Used to collect information from my users                   | United States          |
+| Medium           | Used to share my articles and other content                 | United States          |
+| Revue            | Used to send emails to my users                             | United States          |
 
 ### Security purposes
 
