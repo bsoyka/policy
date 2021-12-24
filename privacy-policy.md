@@ -239,20 +239,3 @@ https://github.com/bsoyka/policy/commits/main/privacy-policy.md
 
 Questions regarding this privacy policy, my information practices, or my sites
 should be directed by email to hello@bsoyka.me.
-
-## Definitions
-
-The following terms are used in this privacy policy. The definitions below
-should be interpreted the same way regardless of capitalization or
-pluralization.
-
-- **Me**, **I**: Benjamin Soyka, the author of this privacy policy.
-- **My digital properties**: The websites and other digital properties I own and
-  directly control.
-- **My sites**, **my services**: The sites where this privacy policy is posted.
-- **Personal information**: Information about you that is collected by me and
-  can be used to identify, contact, or otherwise associate you with me.
-- **Third-party platform**, **third party**: A service that is not controlled by
-  me.
-- **This privacy policy**: This document.
-- **You**, **your**: The individual using my services.
