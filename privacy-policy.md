@@ -11,8 +11,7 @@ collected on my sites, whether on my digital properties or through other
 third-party platforms.
 
 I follow this privacy policy in accordance with applicable law in the places
-where I operate. Terms used in this privacy policy are defined in the
-[Definitions](#definitions) section.
+where I operate.
 
 Please keep in mind that when you provide information to me on a third-party
 platform, the information you provide may be separately collected by the
