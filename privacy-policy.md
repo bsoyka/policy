@@ -28,18 +28,19 @@ privacy policies of other sites that may collect your personal information.
 
 ## Information I Collect
 
-The personal information I collect can be divided into three categories:
-
-- Information you provide directly to me
-- Information I automatically collect from you
-- Information I collect from third parties
+The personal information I collect can be divided into two categories:
+information you provide to me and information I automatically collect from you.
 
 ### Information you provide directly to me
 
-I collect the following personal information directly from you:
+I collect the following personal information directly from you or from a
+[third-party service provider](#list-of-service-providers):
 
 - Information sent to any of my email addresses as listed on my sites, which may
   include any information not listed here as provided to me
+- Your full name and email address
+- Your usernames on third-party platforms
+- Comments or other user-generated content on my sites
 
 ### Information I automatically collect from you
 
@@ -53,13 +54,6 @@ use my sites or open emails I send to you:
 - Usage, viewing, technical, and device data when you visit my sites or open
   emails I send, including your browser or device type, unique device
   identifier, and IP address
-
-### Information I collect from third parties
-
-I collect the following information from third parties:
-
-- Your full name and email address
-- Your usernames on third-party platforms
 
 ## Information I Do Not Collect
 
@@ -85,6 +79,8 @@ I may use your personal information for the following purposes:
   platforms to identify you.
 - I use your email address to communicate with you, if you've given me
   permission to do so.
+- I use your comments on my sites to learn how I can improve my content and
+  services.
 - I use your full name, email address, and information you send to me via email
   to respond to requests for support or other questions.
 - I use your usage data to identify how my sites are being used and to improve
@@ -104,9 +100,9 @@ I have a good faith belief that doing so is reasonably necessary to achieve
 those purposes. I will not use your personal information for any other purpose
 without your consent.
 
-You can learn what information I have, how I'm using it, and what permissions
-you have given me by contacting me using the contact information provided in the
-[Contacting Me](#contacting-me) section.
+You can learn what information I have about you, how I'm using it, and what
+permissions you have given me by contacting me using the contact information
+provided in the [Contacting Me](#contacting-me) section.
 
 ### My legal bases for processing information
 
@@ -115,7 +111,8 @@ certain international laws (including, but not limited to, the European Union's
 General Data Protection Regulation), I am required to notify you about the legal
 basis on which I process personal information.
 
-I process personal information on the following legal bases:
+I process personal information on the following legal bases: consent and
+legitimate interest.
 
 ### Consent
 
@@ -163,15 +160,16 @@ of the United States or the European Union.
 #### List of service providers
 
 The following is a list of service providers that process personal information
-on my behalf as descibed above:
+on my behalf as descibed above. All of these service providers are located in
+the United States.
 
-| Service provider | Description of processing                                   | Location of processing |
-| ---------------- | ----------------------------------------------------------- | ---------------------- |
-| Cloudflare       | Used to protect, analyze, and improve my sites and services | United States          |
-| Google Analytics | Used to analyze and improve my sites and services           | United States          |
-| Google Forms     | Used to collect information from my users                   | United States          |
-| Medium           | Used to share my articles and other content                 | United States          |
-| Revue            | Used to send emails to my users                             | United States          |
+| Service provider | Description of processing                                   |
+| ---------------- | ----------------------------------------------------------- |
+| Cloudflare       | Used to protect, analyze, and improve my sites and services |
+| Disqus           | Used to receive and display user feedback on my sites       |
+| Google           | Used to analyze and improve my sites and services           |
+| Medium           | Used to share my articles and other content                 |
+| Revue            | Used to send emails to my users                             |
 
 ### Security purposes
 
@@ -205,13 +203,10 @@ other consideration.
 ## Use of Cookies
 
 Cookies are small text files that websites often store on computer hard drives
-or mobile devices of visitors. I do not directly use cookies, but
-[my third-party service providers](#list-of-service-providers) may use cookies
-to collect information about you when you visit my sites or open emails I send
-to you.
-
-I may ask you to consent to the use of cookies on your computer or mobile
-device. This preference will be stored in a cookie if you respond to it.
+or mobile devices of visitors. I do not directly use cookies for analytics or
+other tracking, but [third-party service providers](#list-of-service-providers)
+may use cookies to collect information about you when you visit my sites or open
+emails I send to you.
 
 ### Do Not Track
 
@@ -229,7 +224,7 @@ Although I am committed to maintaining this privacy policy, I may need to update
 it from time to time.
 
 The most recent version of this privacy policy will always be available at the
-following URL: https://github.com/bsoyka/policy/blob/main/privacy-policy.md
+following URL: https://bsoyka.me/privacy
 
 You can track changes to this privacy policy at the following URL:
 https://github.com/bsoyka/policy/commits/main/privacy-policy.md
