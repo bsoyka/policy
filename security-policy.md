@@ -65,12 +65,16 @@ that you:
 
 ## Official Channels
 
-Please use my email to report security issues, providing all relevant
-information. The more details you provide, the easier it will be for me to
-triage and fix the issue.
+If enabled, please use GitHub's interface to report security vulnerabilities.
+This can be done through the Security tab on some of my repositories by clicking
+"Report a vulnerability".
 
-My email is security@bsoyka.me. If you'd like, you can encrypt any communication
-to this email with my [security PGP key](pgp/README.md).
+Please provide all relevant information. The more details you provide, the
+easier it will be for me to triage and fix the issue.
+
+If this method is unavailable or not your preference, use my email to report
+security issues. My email is security@bsoyka.me. If you'd like, you can encrypt
+any communication to this email with my [security PGP key](pgp/README.md).
 
 ## Safe Harbor
 
