@@ -163,13 +163,11 @@ The following is a list of service providers that process personal information
 on my behalf as descibed above. All of these service providers are located in
 the United States.
 
-| Service provider  | Description of processing                                   |
-| ----------------- | ----------------------------------------------------------- |
-| Cloudflare        | Used to protect, analyze, and improve my sites and services |
-| Disqus            | Used to receive and display user feedback on my sites       |
-| Medium            | Used to share my articles and other content                 |
-| Microanalytics.io | Used to analyze and improve my sites and services           |
-| Revue             | Used to send emails to my users                             |
+| Service provider | Description of processing                                   |
+| ---------------- | ----------------------------------------------------------- |
+| Cloudflare       | Used to protect, analyze, and improve my sites and services |
+| Medium           | Used to share my articles and other content                 |
+| PostHog          | Used to analyze and improve my sites and services           |
 
 ### Security purposes
 
