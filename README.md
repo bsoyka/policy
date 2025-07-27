@@ -1,9 +1,13 @@
 # Policy Center
 
-This is a collection of my policy documents. Any questions about the documents
-in this repository can be directed to any of the contact methods listed below.
+This is a collection of my policy documents.
 
-## Documents
+Outside contributions to this repository are not accepted, and pull requests
+will automatically be closed. If you have any questions, concerns, or
+suggestions regarding any of the documents here, **email me at
+hello@bsoyka.me**.
+
+## Contents
 
 The following documents are available here:
 
@@ -12,10 +16,6 @@ The following documents are available here:
 | **Code of Conduct** | Rules for contributors to my projects | **[View][code of conduct view]** **&middot;** [History][code of conduct history] **&middot;** [Raw][code of conduct raw] |
 | **Privacy Policy**  | How I handle user data                | **[View][privacy policy view]** **&middot;** [History][privacy policy history] **&middot;** [Raw][privacy policy raw]    |
 | **Security Policy** | How I handle security vulnerabilities | **[View][security policy view]** **&middot;** [History][security policy history] **&middot;** [Raw][security policy raw] |
-
-## Contact
-
-You can reach me by email at hello@bsoyka.me.
 
 [code of conduct history]: https://github.com/bsoyka/policy/commits/main/code-of-conduct.md
 [code of conduct raw]: https://raw.githubusercontent.com/bsoyka/policy/main/code-of-conduct.md
