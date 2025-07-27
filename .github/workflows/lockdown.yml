@@ -1,17 +1,19 @@
-name: "Repo Lockdown"
+name: "Repo lockdown"
 
-on:
-    issues:
-        types: [opened]
-    pull_request:
-        types: [opened]
+on: pull_request
 
 permissions:
-    issues: write
-    pull-requests: write
+  pull-requests: write
 
 jobs:
-    action:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: dessant/repo-lockdown@v2
+  close:
+    name: "Close all pull requests"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: dessant/repo-lockdown@6e7465417db1c79a9c02df1797672f2bca97c926 # v4.0.0
+        with:
+          process-only: 'prs'
+          pr-comment: >
+            Outside contributions to this repository are not accepted. If you
+            have any questions, concerns, or suggestions regarding any of the
+            documents here, **email me at hello@bsoyka.me**.
