@@ -1,0 +1,45 @@
+name: "Sync files"
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "code-of-conduct.md"
+      - "security-policy.md"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    name: "Sync to .github repo"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out policy repo
+        uses: actions/checkout@v4
+
+      - name: Check out .github repo
+        uses: actions/checkout@v4
+        with:
+          repository: bsoyka/.github
+          token: ${{ secrets.DOTGITHUB_PUSH_TOKEN }}
+          path: dotgithub
+
+      - name: Copy and rename files
+        run: |
+          cp code-of-conduct.md dotgithub/CODE_OF_CONDUCT.md
+          cp security-policy.md dotgithub/SECURITY.md
+
+      - name: Commit & push if changed
+        run: |
+          cd dotgithub
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add CODE_OF_CONDUCT.md SECURITY.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: sync from policy repo" -m "https://github.com/bsoyka/policy/commit/${GITHUB_SHA}"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
+        env:
+          GITHUB_SHA: ${{ github.sha }}
