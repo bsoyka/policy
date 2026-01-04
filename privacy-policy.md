@@ -232,6 +232,9 @@ following URL: https://bsoyka.me/privacy
 You can track changes to this privacy policy at the following URL:
 https://github.com/bsoyka/policy/commits/main/privacy-policy.md
 
+You can also subscribe to changes to my policy documents, including this privacy
+policy, by "watching" this GitHub repository: https://gh.bsoyka.me/policy
+
 ## Contacting Me
 
 Questions regarding this privacy policy, my information practices, or my sites
