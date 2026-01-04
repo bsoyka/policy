@@ -7,6 +7,10 @@ will automatically be closed. If you have any questions, concerns, or
 suggestions regarding any of the documents here, **email me at
 hello@bsoyka.me**.
 
+These documents are licensed under [CC BY-SA 4.0](LICENSE.md). This means you're
+welcome to reuse and adapt them for your own needs, provided you follow the
+conditions of the license.
+
 ## Contents
 
 The following documents are available here:
