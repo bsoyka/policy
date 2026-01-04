@@ -41,6 +41,9 @@ I collect the following personal information directly from you or from a
 - Your full name and email address
 - Your usernames on third-party platforms
 - Comments or other user-generated content on my sites
+- Basic details about your payment information if you make payments to me (I
+  cannot access full payment details such as credit card numbers, which remain
+  securely stored with a service provider.)
 
 ### Information I automatically collect from you
 
@@ -58,11 +61,10 @@ use my sites or open emails I send to you:
 ## Information I Do Not Collect
 
 I do not intentionally collect any sensitive personal information such as
-payment details, personal data revealing racial or ethnic origin, political
-opinions, religious or philosophical beliefs, trade union membership, genetic or
-biometric data for the purpose of uniquely identifying a natural person, data
-concerning health, or data concerning a natural person's sex life or sexual
-orientation.
+personal data revealing racial or ethnic origin, political opinions, religious
+or philosophical beliefs, trade union membership, genetic or biometric data for
+the purpose of uniquely identifying a natural person, data concerning health, or
+data concerning a natural person's sex life or sexual orientation.
 
 I do not knowingly collect any information from children under the minimum age
 limit, which is the age of 13 or the legal minimum age for providing consent for
@@ -163,11 +165,14 @@ The following is a list of service providers that process personal information
 on my behalf as descibed above. All of these service providers are located in
 the United States.
 
-| Service provider | Description of processing                                   |
-| ---------------- | ----------------------------------------------------------- |
-| Cloudflare       | Used to protect, analyze, and improve my sites and services |
-| Medium           | Used to share my articles and other content                 |
-| PostHog          | Used to analyze and improve my sites and services           |
+| Service provider    | Description of processing                                   |
+| ------------------- | ----------------------------------------------------------- |
+| Amazon Web Services | Used to archive photography projects                        |
+| Cloudflare          | Used to protect, analyze, and improve my sites and services |
+| Medium              | Used to share my articles and other content                 |
+| Pixieset            | Used to record photography-related business records         |
+| PostHog             | Used to analyze and improve my sites and services           |
+| Stripe              | Used to process digital payments                            |
 
 ### Security purposes
 
