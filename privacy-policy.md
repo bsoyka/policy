@@ -16,6 +16,7 @@ This policy applies when you:
     - [soyka.photos](https://soyka.photos), my photography site
     - `bensoyka.net`, which hosts private tools for my own use
     - [howlonghasthehubbeenunderconstruction.com](https://howlonghasthehubbeenunderconstruction.com)
+    - [lunarleisure.com](https://lunarleisure.com)
     - `bsoyka.me`, `bsoyka.link`, and `headshotguy.net`, which redirect or
       shorten links to my other sites and pages
 - Email or message me, including through the contact form on soyka.photos
@@ -63,7 +64,9 @@ choices you make on them don't change how I handle what I receive.
 - **Messages.** Your name, email address or other contact details, and whatever
   you choose to include in your message.
 - **My notes.** I keep personal notes, which can include details from our
-  conversations, plans we've made, or a photo session I'm doing for you.
+  conversations, plans we've made, or a photo session I'm doing for you. I also
+  use a dictation and meeting notes app, so notes and transcripts from meetings
+  you're in with me may include what you said.
 - **Payments.** If you pay me, I receive your name, the amount, the date, and
   any note you include. Card payments are handled by Stripe; I never see or
   store full card numbers. If you pay through Venmo, Cash App, PayPal, Zelle, or
@@ -135,15 +138,17 @@ what they need for their role.
 | ------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | addy.io             | Forwards email sent to my alias addresses                                                                         |
 | Amazon Web Services | Archives photography originals; hosts file sharing and parts of my sites; receives and sends some automated email |
+| Anthropic           | Provides Claude, an AI assistant I use to help with email, scheduling, notes, and documents                       |
 | Apple               | Hosts my email through iCloud Mail                                                                                |
 | Cal.com             | Schedules appointments                                                                                            |
 | Cloudflare          | Hosts my sites, manages domains, protects against abuse, and controls access to private tools                     |
 | Dub                 | Runs my short links                                                                                               |
 | Google              | Hosts my Gmail account, my calendar, and some of my documents                                                     |
-| Obsidian            | Syncs my personal notes between my devices                                                                        |
+| Obsidian            | Syncs my personal notes between my devices, end-to-end encrypted so Obsidian can't read them                      |
 | Pixieset            | Hosts soyka.photos, its contact form, my email list, and client galleries; sends invoices                         |
 | PostHog             | Provides website analytics                                                                                        |
 | Stripe              | Processes card payments and sends payment receipts                                                                |
+| Wispr Flow          | Transcribes my dictation and my notes from meetings                                                               |
 
 These providers are based in the United States, but some (like Cloudflare)
 operate worldwide, so your information may be processed in other countries.
@@ -163,7 +168,6 @@ for targeted advertising.
 
 ## How Long I Keep It
 
-- **Shared files:** deleted automatically within 90 days of upload
 - **Website analytics:** kept by PostHog under my account's data retention
   settings, then deleted
 - **Messages and notes:** kept as long as they're useful to me, unless you ask
