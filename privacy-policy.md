@@ -42,11 +42,12 @@ choices you make on them don't change how I handle what I receive.
   in your browser; instead, PostHog counts unique visitors with a hash
   calculated on its servers. If your browser sends a "Do Not Track" signal, no
   analytics are collected at all.
-- **Hosting and security logs.** All of my domains run through Cloudflare, which
-  processes your IP address and request details to deliver pages, block abuse,
-  and give me aggregate traffic statistics. Some features (like the "fun facts"
-  on my homepage and files on `share.bensoyka.com`) are served from Amazon Web
-  Services, which may log your IP address and request details.
+- **Hosting and security logs.** My domains use Cloudflare, and most of my sites
+  run through its network, which processes your IP address and request details
+  to deliver pages, block abuse, and give me aggregate traffic statistics. Some
+  features (like the "fun facts" on my homepage and files on
+  `share.bensoyka.com`) are served from Amazon Web Services, which may log your
+  IP address and request details.
 - **Short links.** Links on `bsoyka.link` go through [Dub](https://dub.co),
   which records each click's time, referring page, browser and device type, and
   approximate location derived from your IP address, so I can see how often a
