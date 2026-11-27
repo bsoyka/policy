@@ -11,10 +11,14 @@ actually do rather than everything I might conceivably do.
 
 This policy applies when you:
 
-- Visit [bensoyka.com](https://bensoyka.com) or its subdomains (such as
-  `keys.bensoyka.com` and `share.bensoyka.com`), including through older
-  addresses like `bsoyka.me` that redirect there
-- Email or message me
+- Visit any of my sites:
+    - [bensoyka.com](https://bensoyka.com) and its subdomains, such as
+      `keys.bensoyka.com`, `assets.bensoyka.com`, `share.bensoyka.com`, and
+      `statistician.bensoyka.com`
+    - [soyka.photos](https://soyka.photos), my photography site
+    - `bensoyka.net`, which hosts private tools for my own use
+    - `bsoyka.me` and its subdomains, which redirect to my other sites
+- Email or message me, including through the contact form on soyka.photos
 - Pay me
 - Hire me for photography as Ben Soyka Photography, or appear in a session I
   photograph
@@ -29,17 +33,25 @@ choices you make on them don't change how I handle what I receive.
 
 ### When you visit my sites
 
-- **Analytics.** My main site uses [PostHog](https://posthog.com) to understand
-  how it's used. It records pages you view, links you click, the page that
-  referred you, your browser and device type, and your approximate location
-  (city level) derived from your IP address. It assigns your browser a random
-  identifier, stored in a cookie and local storage, so repeat visits can be
-  counted. I don't link this identifier to your name or any other account.
-- **Hosting and security logs.** My sites run on Cloudflare, which processes
-  your IP address and request details to deliver pages, block abuse, and give me
-  aggregate traffic statistics. Some features (like the "fun facts" on my
-  homepage and file downloads from `share.bensoyka.com`) are served from Amazon
-  Web Services, which may log your IP address and request details.
+- **Analytics on bensoyka.com.** I use [PostHog](https://posthog.com) in
+  cookieless mode to understand how the site is used. It records pages you view,
+  links you click, the page that referred you, your browser and device type, and
+  your approximate location derived from your IP address. It doesn't store
+  anything in your browser; instead, PostHog counts unique visitors with a hash
+  calculated on its servers. If your browser sends a "Do Not Track" signal, no
+  analytics are collected at all.
+- **Hosting and security logs.** My bensoyka.com, bensoyka.net, and bsoyka.me
+  sites run on Cloudflare, which processes your IP address and request details
+  to deliver pages, block abuse, and give me aggregate traffic statistics. Some
+  features (like the "fun facts" on my homepage and files on
+  `share.bensoyka.com`) are served from Amazon Web Services, which may log your
+  IP address and request details.
+- **soyka.photos.** My photography site is hosted by Pixieset, which collects
+  visitor information under its own privacy policy. If you use its contact form,
+  your name, email address, and message are sent to me by email.
+- **Private tools.** The tools on `bensoyka.net` are for my own use. If I give
+  you access to one, Cloudflare records the email address you sign in with and
+  when you signed in.
 - **Location for page content.** Some pages check whether your connection
   appears to come from Minnesota to show relevant information. This check
   happens on each request and isn't stored.
@@ -67,13 +79,14 @@ choices you make on them don't change how I handle what I receive.
 
 ### When I notarize for you
 
-Minnesota law requires notaries to verify signers' identities and, for some
-notarizations, to keep records. Depending on the notarization, I may record your
-name, address, the type of identification you showed and its details, your
-signature, and a description of the document. For remote online notarizations,
-the law also requires a journal and an audio-video recording of the session,
-which are created and stored through the remote notarization platform used for
-the session. Appointments booked online go through [Cal.com](https://cal.com).
+I keep a journal entry for every notarization I perform, including ones where
+Minnesota law doesn't require it, so I have a record if a notarization is ever
+questioned. An entry may include your name, address, the type of identification
+you showed and its details, your signature, the date, and a description of the
+document. For remote online notarizations, the law also requires an audio-video
+recording of the session, which is created and stored through the remote
+notarization platform used for the session. Appointments booked online go
+through [Cal.com](https://cal.com).
 
 ## Children's Information
 
@@ -109,14 +122,13 @@ what they need for their role.
 
 | Service provider    | What it does for me                                                                           |
 | ------------------- | --------------------------------------------------------------------------------------------- |
+| Apple               | Hosts my email through iCloud Mail                                                            |
 | Amazon Web Services | Archives photography originals; hosts file sharing and parts of my sites                      |
 | Cal.com             | Schedules appointments                                                                        |
 | Cloudflare          | Hosts my sites, manages domains, protects against abuse, and controls access to private tools |
-| Pixieset            | Hosts client galleries and sends invoices                                                     |
+| Pixieset            | Hosts soyka.photos and its contact form, hosts client galleries, and sends invoices           |
 | PostHog             | Provides website analytics                                                                    |
 | Stripe              | Processes card payments                                                                       |
-
-<!-- TODO(confirm): add your email provider (whoever hosts ben@bensoyka.com). -->
 
 These providers are based in the United States, but some (like Cloudflare)
 operate worldwide, so your information may be processed in other countries.
@@ -145,7 +157,8 @@ for targeted advertising.
   or lost files, unless you ask me to delete them
 - **Contracts, releases, invoices, and payment records:** kept as long as I need
   them for tax and legal purposes, typically at least seven years
-- **Notary records:** kept for as long as Minnesota law requires
+- **Notary journals and records:** kept long-term, and never for less time than
+  Minnesota law requires
 
 ## How I Protect It
 
@@ -166,9 +179,8 @@ You can ask me to:
 Email me at the address below and I'll respond within 30 days. I may need to
 confirm your identity before acting on a request.
 
-You can also limit analytics by blocking cookies or using a content blocker.
-Because there isn't an agreed standard for "Do Not Track" signals, my sites
-don't currently change their behavior in response to them.
+To opt out of analytics on bensoyka.com, turn on "Do Not Track" in your browser,
+or use a content blocker.
 
 ## Changes to This Policy
 

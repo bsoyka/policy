@@ -5,7 +5,7 @@ This is a collection of my policy documents.
 Outside contributions to this repository are not accepted, and pull requests
 will automatically be closed. If you have any questions, concerns, or
 suggestions regarding any of the documents here, **email me at
-hello@bsoyka.me**.
+ben@bensoyka.com**.
 
 These documents are licensed under [CC BY-SA 4.0](LICENSE.md). This means you're
 welcome to reuse and adapt them for your own needs, provided you follow the

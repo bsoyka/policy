@@ -72,8 +72,8 @@ This can be done through the Security tab on some of my repositories by clicking
 Please provide all relevant information. The more details you provide, the
 easier it will be for me to triage and fix the issue.
 
-If this method is unavailable or not your preference, email hello@bsoyka.me with
-the vulnerability details.
+If this method is unavailable or not your preference, email ben@bensoyka.com
+with the vulnerability details.
 
 ## Safe Harbor
 
