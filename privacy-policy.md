@@ -1,241 +1,186 @@
 # Privacy Policy
 
-Thanks for entrusting me (Benjamin Soyka) with your privacy and personal
-information. Holding on to your information is a serious responsiblity, and this
-document defines how I will take care of it.
+_Last updated: November 26, 2026_
 
-## Scope of This Privacy Policy
+I'm Ben Soyka, an individual in Minneapolis, Minnesota. This policy explains
+what personal information I collect, why, who else handles it, how long I keep
+it, and what you can ask me to do with it. I've tried to describe what I
+actually do rather than everything I might conceivably do.
 
-This privacy policy describes the processing of personal information provided or
-collected on my sites, whether on my digital properties or through other
-third-party platforms.
+## What This Policy Covers
 
-I follow this privacy policy in accordance with applicable law in the places
-where I operate.
+This policy applies when you:
 
-Please keep in mind that when you provide information to me on a third-party
-platform, the information you provide may be separately collected by the
-third-party platform. The information I collect is covered by this privacy
-policy, and the information the third-party platform collects is subject to the
-third-party platform’s privacy practices. Privacy choices you have made on the
-third-party platform will not apply to my use of the information I have
-collected.
+- Visit [bensoyka.com](https://bensoyka.com) or its subdomains (such as
+  `keys.bensoyka.com` and `share.bensoyka.com`), including through older
+  addresses like `bsoyka.me` that redirect there
+- Email or message me
+- Pay me
+- Hire me for photography as Ben Soyka Photography, or appear in a session I
+  photograph
+- Have me notarize a document as a Minnesota notary public
 
-Please keep in mind that my sites may contain links to other sites not owned or
-controlled by me and I am not responsible for the privacy practices of those
-sites. I encourage you to be aware when you leave my sites and to read the
-privacy policies of other sites that may collect your personal information.
+It doesn't cover platforms I use but don't run, such as GitHub, Medium,
+Unsplash, Instagram, or the payment apps listed below. When you interact with me
+there, those platforms collect information under their own privacy policies, and
+choices you make on them don't change how I handle what I receive.
 
-## Information I Collect
+## What I Collect
 
-The personal information I collect can be divided into two categories:
-information you provide to me and information I automatically collect from you.
+### When you visit my sites
 
-### Information you provide directly to me
+- **Analytics.** My main site uses [PostHog](https://posthog.com) to understand
+  how it's used. It records pages you view, links you click, the page that
+  referred you, your browser and device type, and your approximate location
+  (city level) derived from your IP address. It assigns your browser a random
+  identifier, stored in a cookie and local storage, so repeat visits can be
+  counted. I don't link this identifier to your name or any other account.
+- **Hosting and security logs.** My sites run on Cloudflare, which processes
+  your IP address and request details to deliver pages, block abuse, and give me
+  aggregate traffic statistics. Some features (like the "fun facts" on my
+  homepage and file downloads from `share.bensoyka.com`) are served from Amazon
+  Web Services, which may log your IP address and request details.
+- **Location for page content.** Some pages check whether your connection
+  appears to come from Minnesota to show relevant information. This check
+  happens on each request and isn't stored.
 
-I collect the following personal information directly from you or from a
-[third-party service provider](#list-of-service-providers):
+### When you contact or pay me
 
-- Information sent to any of my email addresses as listed on my sites, which may
-  include any information not listed here as provided to me
-- Your full name and email address
-- Your usernames on third-party platforms
-- Comments or other user-generated content on my sites
-- Basic details about your payment information if you make payments to me (I
-  cannot access full payment details such as credit card numbers, which remain
-  securely stored with a service provider.)
+- **Messages.** Your name, email address or other contact details, and whatever
+  you choose to include in your message.
+- **Payments.** If you pay me, I receive your name, the amount, the date, and
+  any note you include. Card payments are handled by Stripe; I never see or
+  store full card numbers. If you pay through Venmo, Cash App, PayPal, Zelle, or
+  Apple Cash, that service handles your payment under its own privacy policy.
 
-### Information I automatically collect from you
+### When you hire me for photography
 
-The following personal information is automatically collected from you when you
-use my sites or open emails I send to you:
+- Your contact details, session details (date, location, type of session), and
+  any notes you share about what you want
+- Signed contracts, model releases, and change forms, including your signature
+- Invoices and payment records
+- Photographs of you and anyone else in the session. Photos naturally show what
+  people look like, but I don't use them to identify anyone by facial
+  recognition or other biometric means.
+- If you view a gallery, Pixieset may record your email address, favorites, and
+  downloads so I can see your selections and deliver your photos.
 
-- Location information as associated with your IP address
-- Activity and demographic information about your use of my sites, such as the
-  content you view, how often you use my services, how you access my services,
-  and your preferences
-- Usage, viewing, technical, and device data when you visit my sites or open
-  emails I send, including your browser or device type, unique device
-  identifier, and IP address
+### When I notarize for you
 
-## Information I Do Not Collect
+Minnesota law requires notaries to verify signers' identities and, for some
+notarizations, to keep records. Depending on the notarization, I may record your
+name, address, the type of identification you showed and its details, your
+signature, and a description of the document. For remote online notarizations,
+the law also requires a journal and an audio-video recording of the session,
+which are created and stored through the remote notarization platform used for
+the session. Appointments booked online go through [Cal.com](https://cal.com).
 
-I do not intentionally collect any sensitive personal information such as
-personal data revealing racial or ethnic origin, political opinions, religious
-or philosophical beliefs, trade union membership, genetic or biometric data for
-the purpose of uniquely identifying a natural person, data concerning health, or
-data concerning a natural person's sex life or sexual orientation.
+## Children's Information
 
-I do not knowingly collect any information from children under the minimum age
-limit, which is the age of 13 or the legal minimum age for providing consent for
-data collection in your country, whichever is stricter.
+My sites aren't directed at children, and I don't knowingly collect personal
+information online from anyone under 13. If I learn that I have, I'll delete it.
 
-If I learn or have reason to suspect that you are under the age of 13, I will
-permanently remove your information from my systems.
+Children and teens do appear in family and senior photo sessions. In those
+cases, a parent or guardian books the session, signs the paperwork, and receives
+the photos, and I handle those photos as described for all photography clients.
 
 ## How I Use Your Information
 
-I may use your personal information for the following purposes:
+- To run, secure, and improve my sites
+- To reply to you and provide what you've asked for
+- To book, deliver, and bill photography and notary services
+- To keep business, tax, and notary records I'm legally required to keep
+- To show photos in my portfolio, website, social media, or printed samples, but
+  only where your signed contract or release allows it
+- To protect my rights or others' safety, to investigate fraud or abuse, or to
+  comply with the law
 
-- I use your full name, email address, and applicable usernames on third-party
-  platforms to identify you.
-- I use your email address to communicate with you, if you've given me
-  permission to do so.
-- I use your comments on my sites to learn how I can improve my content and
-  services.
-- I use your full name, email address, and information you send to me via email
-  to respond to requests for support or other questions.
-- I use your usage data to identify how my sites are being used and to improve
-  them.
-- I may use your personal information if it is necessary for security purposes,
-  such as investigating fraud and protecting my own or others' rights and
-  property.
-- I may use your User Personal Information to comply with my legal obligations,
-  protect my intellectual property, and enforce my other applicable policies.
+I don't use your information for advertising, I don't build advertising
+profiles, and I don't use photos of you in paid ads or license them to third
+parties.
 
-Your personal information will only be processed in the United States. I will
-utilize reasonable security measures to protect your personal information.
-
-I limit my use of your personal information to the purposes described above. If
-I need to use your personal information for other purposes, I will only do so if
-I have a good faith belief that doing so is reasonably necessary to achieve
-those purposes. I will not use your personal information for any other purpose
-without your consent.
-
-You can learn what information I have about you, how I'm using it, and what
-permissions you have given me by contacting me using the contact information
-provided in the [Contacting Me](#contacting-me) section.
-
-### My legal bases for processing information
-
-To the extent that my processing of your personal information is subject to
-certain international laws (including, but not limited to, the European Union's
-General Data Protection Regulation), I am required to notify you about the legal
-basis on which I process personal information.
-
-I process personal information on the following legal bases: consent and
-legitimate interest.
-
-### Consent
-
-I rely on your consent to use your personal information under the following
-circumstances: when you decide to participate in a research project, beta
-program, or survey; and for marketing purposes, where applicable. All of this
-personal information is entirely optional, and you have the ability to access,
-modify, and delete it at any time by [contacting me](#contacting-me). You may
-withdraw your consent at any time.
-
-### Legitimate interest
-
-Generally, the remainder of the processing of personal information I perform is
-necessary for the purposes of my legitimate interest, for example, for legal
-compliance purposes, security purposes, or to maintain ongoing confidentiality,
-integrity, availability, and resilience of my sites and services.
-
-### Requesting deletion
-
-If you would like to request deletion of data I process on the basis of consent
-or if you object to my processing of personal information, please use the
-contact information provided in the [Contacting Me](#contacting-me) section.
-
-## How I Share Information I Collect
-
-I may share your personal information with third parties under one of the
-following circumstances:
-
-### Consent
-
-I share your personal information, if you consent, after letting you know what
-information will be shared, with whom, and why. You may direct me through your
-actions on my sites to share your personal information.
+## Who I Share It With
 
 ### Service providers
 
-I share personal information with a limited number of service providers who
-process it on my behalf to provide or improve my services, and who have agreed
-to privacy restrictions similar to the ones in this privacy policy by making
-similar commitments. My service providers perform customer support ticketing,
-marketing, security, and other similar services. While I process all personal
-information in the United States, my service providers may process data outside
-of the United States or the European Union.
+These companies handle personal information on my behalf to provide the services
+listed here. Each has its own privacy and security terms, and I only give them
+what they need for their role.
 
-#### List of service providers
+| Service provider    | What it does for me                                                                           |
+| ------------------- | --------------------------------------------------------------------------------------------- |
+| Amazon Web Services | Archives photography originals; hosts file sharing and parts of my sites                      |
+| Cal.com             | Schedules appointments                                                                        |
+| Cloudflare          | Hosts my sites, manages domains, protects against abuse, and controls access to private tools |
+| Pixieset            | Hosts client galleries and sends invoices                                                     |
+| PostHog             | Provides website analytics                                                                    |
+| Stripe              | Processes card payments                                                                       |
 
-The following is a list of service providers that process personal information
-on my behalf as descibed above. All of these service providers are located in
-the United States.
+<!-- TODO(confirm): add your email provider (whoever hosts ben@bensoyka.com). -->
 
-| Service provider    | Description of processing                                   |
-| ------------------- | ----------------------------------------------------------- |
-| Amazon Web Services | Used to archive photography projects                        |
-| Cloudflare          | Used to protect, analyze, and improve my sites and services |
-| Medium              | Used to share my articles and other content                 |
-| Pixieset            | Used to record photography-related business records         |
-| PostHog             | Used to analyze and improve my sites and services           |
-| Stripe              | Used to process digital payments                            |
+These providers are based in the United States, but some (like Cloudflare)
+operate worldwide, so your information may be processed in other countries.
 
-### Security purposes
+### Legal requirements
 
-I may use your personal information for security purposes, such as to protect my
-sites and services from unauthorized access, use, disclosure, or modification.
+I may disclose information if I'm required to by a valid subpoena, court order,
+or similar legal process, or if I believe in good faith it's necessary to
+protect someone's safety, my rights, or others' rights. Unless the law or a
+court prevents me, or there's an emergency, I'll make a reasonable effort to
+tell you first.
 
-### Legal disclosure
+### No sale
 
-I strive for transparency in complying with legal process and legal obligations.
-Unless prevented from doing so by law or court order, or in rare, exigent
-circumstances, I will make a reasonable effort to notify you of any legally
-compelled or required disclosure of your information.
+I **don't** and **won't** sell or rent your personal information, or share it
+for targeted advertising.
 
-I may disclose personal information or other information I collect about you to
-law enforcement if required in response to a valid subpoena, court order, search
-warrant, a similar government order, or when I believe in good faith that
-disclosure is necessary to comply with my legal obligations, to protect our
-property or rights, or those of third parties or the public at large.
+## How Long I Keep It
 
-### Aggregate, non-personal information
+- **Website analytics:** kept by PostHog under my account's data retention
+  settings, then deleted
+- **Messages:** kept as long as they're useful for our conversation or my
+  records, unless you ask me to delete them
+- **Photography galleries:** online for at least 90 days after delivery
+- **Photography originals:** archived indefinitely so I can help with re-orders
+  or lost files, unless you ask me to delete them
+- **Contracts, releases, invoices, and payment records:** kept as long as I need
+  them for tax and legal purposes, typically at least seven years
+- **Notary records:** kept for as long as Minnesota law requires
 
-I share certain aggregated, non-personally identifying information with others
-about how my users, collectively, use my sites. This information is used to
-understand how my sites and services are being used and to improve them.
+## How I Protect It
 
-### Sale of your personal information
+I use reputable providers, encryption in transit, multi-factor authentication on
+my accounts, and access limited to me. No system is perfectly secure, so I can't
+guarantee absolute security, but if a breach affects your information, I'll tell
+you as the law requires.
 
-I **do not** and **will never** sell your personal information for monetary or
-other consideration.
+## Your Choices
 
-## Use of Cookies
+You can ask me to:
 
-Cookies are small text files that websites often store on computer hard drives
-or mobile devices of visitors. I do not directly use cookies for analytics or
-other tracking, but [third-party service providers](#list-of-service-providers)
-may use cookies to collect information about you when you visit my sites or open
-emails I send to you.
+- Tell you what personal information I have about you
+- Correct anything that's wrong
+- Delete your information, except records I'm legally required to keep
+- Stop using photos of you in my portfolio or on social media going forward
 
-### Do Not Track
+Email me at the address below and I'll respond within 30 days. I may need to
+confirm your identity before acting on a request.
 
-"Do Not Track" (DNT) is a privacy preference you can set in your browser if you
-do not want online services to collect and share certain kinds of information
-about your online activity from third party tracking services.
+You can also limit analytics by blocking cookies or using a content blocker.
+Because there isn't an agreed standard for "Do Not Track" signals, my sites
+don't currently change their behavior in response to them.
 
-Since I do not directly use cookies on my sites, I do not respond to DNT
-requests. I cannot guarantee whether my third-party service providers will
-respond to DNT requests when you use my sites or open emails I send to you.
+## Changes to This Policy
 
-## Changes to this Privacy Policy
+When I change this policy, I'll update the date at the top. The current version
+is always at [bensoyka.com/privacy](https://bensoyka.com/privacy), and you can
+see every past change in this policy's
+[revision history](https://github.com/bsoyka/policy/commits/main/privacy-policy.md).
+To get notified of changes, "watch" the
+[GitHub repository](https://github.com/bsoyka/policy).
 
-Although I am committed to maintaining this privacy policy, I may need to update
-it from time to time.
+## Contact Me
 
-The most recent version of this privacy policy will always be available at the
-following URL: https://bsoyka.me/privacy
-
-You can track changes to this privacy policy at the following URL:
-https://github.com/bsoyka/policy/commits/main/privacy-policy.md
-
-You can also subscribe to changes to my policy documents, including this privacy
-policy, by "watching" this GitHub repository: https://gh.bsoyka.me/policy
-
-## Contacting Me
-
-Questions regarding this privacy policy, my information practices, or my sites
-should be directed by email to hello@bsoyka.me.
+Email [ben@bensoyka.com](mailto:ben@bensoyka.com) with any questions or requests
+about this policy or your information. If you'd like to encrypt your message, my
+PGP key is at [keys.bensoyka.com](https://keys.bensoyka.com).
