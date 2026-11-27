@@ -12,12 +12,12 @@ actually do rather than everything I might conceivably do.
 This policy applies when you:
 
 - Visit any of my sites:
-    - [bensoyka.com](https://bensoyka.com) and its subdomains, such as
-      `keys.bensoyka.com`, `assets.bensoyka.com`, `share.bensoyka.com`, and
-      `statistician.bensoyka.com`
+    - [bensoyka.com](https://bensoyka.com), my personal site, and its subdomains
     - [soyka.photos](https://soyka.photos), my photography site
     - `bensoyka.net`, which hosts private tools for my own use
-    - `bsoyka.me` and its subdomains, which redirect to my other sites
+    - [howlonghasthehubbeenunderconstruction.com](https://howlonghasthehubbeenunderconstruction.com)
+    - `bsoyka.me`, `bsoyka.link`, and `headshotguy.net`, which redirect or
+      shorten links to my other sites and pages
 - Email or message me, including through the contact form on soyka.photos
 - Pay me
 - Hire me for photography as Ben Soyka Photography, or appear in a session I
@@ -35,31 +35,35 @@ choices you make on them don't change how I handle what I receive.
 
 - **Analytics on bensoyka.com.** I use [PostHog](https://posthog.com) in
   cookieless mode to understand how the site is used. It records pages you view,
-  links you click, the page that referred you, your browser and device type, and
-  your approximate location derived from your IP address. It doesn't store
-  anything in your browser; instead, PostHog counts unique visitors with a hash
-  calculated on its servers. If your browser sends a "Do Not Track" signal, no
-  analytics are collected at all.
-- **Hosting and security logs.** My bensoyka.com, bensoyka.net, and bsoyka.me
-  sites run on Cloudflare, which processes your IP address and request details
-  to deliver pages, block abuse, and give me aggregate traffic statistics. Some
-  features (like the "fun facts" on my homepage and files on
-  `share.bensoyka.com`) are served from Amazon Web Services, which may log your
-  IP address and request details.
+  where you click and scroll, the page that referred you, your browser and
+  device type, how quickly pages load, and your approximate location derived
+  from your IP address. It doesn't store anything in your browser; instead,
+  PostHog counts unique visitors with a hash calculated on its servers. If your
+  browser sends a "Do Not Track" signal, no analytics are collected at all.
+- **Hosting and security logs.** All of my domains run through Cloudflare, which
+  processes your IP address and request details to deliver pages, block abuse,
+  and give me aggregate traffic statistics. Some features (like the "fun facts"
+  on my homepage and files on `share.bensoyka.com`) are served from Amazon Web
+  Services, which may log your IP address and request details.
+- **Short links.** Links on `bsoyka.link` go through [Dub](https://dub.co),
+  which records each click's time, referring page, browser and device type, and
+  approximate location derived from your IP address, so I can see how often a
+  link is used.
 - **soyka.photos.** My photography site is hosted by Pixieset, which collects
   visitor information under its own privacy policy. If you use its contact form,
-  your name, email address, and message are sent to me by email.
+  your name, email address, and message are sent to me by email. If you choose
+  to join my email list there, Pixieset stores your email address so I can send
+  you occasional updates; every email has an unsubscribe link.
 - **Private tools.** The tools on `bensoyka.net` are for my own use. If I give
   you access to one, Cloudflare records the email address you sign in with and
   when you signed in.
-- **Location for page content.** Some pages check whether your connection
-  appears to come from Minnesota to show relevant information. This check
-  happens on each request and isn't stored.
 
 ### When you contact or pay me
 
 - **Messages.** Your name, email address or other contact details, and whatever
   you choose to include in your message.
+- **My notes.** I keep personal notes, which can include details from our
+  conversations, plans we've made, or a photo session I'm doing for you.
 - **Payments.** If you pay me, I receive your name, the amount, the date, and
   any note you include. Card payments are handled by Stripe; I never see or
   store full card numbers. If you pay through Venmo, Cash App, PayPal, Zelle, or
@@ -85,8 +89,14 @@ questioned. An entry may include your name, address, the type of identification
 you showed and its details, your signature, the date, and a description of the
 document. For remote online notarizations, the law also requires an audio-video
 recording of the session, which is created and stored through the remote
-notarization platform used for the session. Appointments booked online go
-through [Cal.com](https://cal.com).
+notarization platform used for the session.
+
+### When you book time with me
+
+If you book a meeting, photo session, or notary appointment through
+[Cal.com](https://cal.com), it collects your name, email address, the time you
+pick, and anything you enter in the booking form, and adds the appointment to my
+calendar.
 
 ## Children's Information
 
@@ -101,6 +111,7 @@ the photos, and I handle those photos as described for all photography clients.
 
 - To run, secure, and improve my sites
 - To reply to you and provide what you've asked for
+- To send updates to my photography email list, if you've joined it
 - To book, deliver, and bill photography and notary services
 - To keep business, tax, and notary records I'm legally required to keep
 - To show photos in my portfolio, website, social media, or printed samples, but
@@ -108,7 +119,7 @@ the photos, and I handle those photos as described for all photography clients.
 - To protect my rights or others' safety, to investigate fraud or abuse, or to
   comply with the law
 
-I don't use your information for advertising, I don't build advertising
+I don't use your information for targeted ads, I don't build advertising
 profiles, and I don't use photos of you in paid ads or license them to third
 parties.
 
@@ -120,15 +131,19 @@ These companies handle personal information on my behalf to provide the services
 listed here. Each has its own privacy and security terms, and I only give them
 what they need for their role.
 
-| Service provider    | What it does for me                                                                           |
-| ------------------- | --------------------------------------------------------------------------------------------- |
-| Apple               | Hosts my email through iCloud Mail                                                            |
-| Amazon Web Services | Archives photography originals; hosts file sharing and parts of my sites                      |
-| Cal.com             | Schedules appointments                                                                        |
-| Cloudflare          | Hosts my sites, manages domains, protects against abuse, and controls access to private tools |
-| Pixieset            | Hosts soyka.photos and its contact form, hosts client galleries, and sends invoices           |
-| PostHog             | Provides website analytics                                                                    |
-| Stripe              | Processes card payments                                                                       |
+| Service provider    | What it does for me                                                                                               |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| addy.io             | Forwards email sent to my alias addresses                                                                         |
+| Amazon Web Services | Archives photography originals; hosts file sharing and parts of my sites; receives and sends some automated email |
+| Apple               | Hosts my email through iCloud Mail                                                                                |
+| Cal.com             | Schedules appointments                                                                                            |
+| Cloudflare          | Hosts my sites, manages domains, protects against abuse, and controls access to private tools                     |
+| Dub                 | Runs my short links                                                                                               |
+| Google              | Hosts my Gmail account, my calendar, and some of my documents                                                     |
+| Obsidian            | Syncs my personal notes between my devices                                                                        |
+| Pixieset            | Hosts soyka.photos, its contact form, my email list, and client galleries; sends invoices                         |
+| PostHog             | Provides website analytics                                                                                        |
+| Stripe              | Processes card payments and sends payment receipts                                                                |
 
 These providers are based in the United States, but some (like Cloudflare)
 operate worldwide, so your information may be processed in other countries.
@@ -148,10 +163,12 @@ for targeted advertising.
 
 ## How Long I Keep It
 
+- **Shared files:** deleted automatically within 90 days of upload
 - **Website analytics:** kept by PostHog under my account's data retention
   settings, then deleted
-- **Messages:** kept as long as they're useful for our conversation or my
-  records, unless you ask me to delete them
+- **Messages and notes:** kept as long as they're useful to me, unless you ask
+  me to delete them
+- **Email list:** until you unsubscribe
 - **Photography galleries:** online for at least 90 days after delivery
 - **Photography originals:** archived indefinitely so I can help with re-orders
   or lost files, unless you ask me to delete them
