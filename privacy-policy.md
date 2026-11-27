@@ -34,13 +34,14 @@ choices you make on them don't change how I handle what I receive.
 
 ### When you visit my sites
 
-- **Analytics on bensoyka.com.** I use [PostHog](https://posthog.com) in
-  cookieless mode to understand how the site is used. It records pages you view,
-  where you click and scroll, the page that referred you, your browser and
-  device type, how quickly pages load, and your approximate location derived
-  from your IP address. It doesn't store anything in your browser; instead,
-  PostHog counts unique visitors with a hash calculated on its servers. If your
-  browser sends a "Do Not Track" signal, no analytics are collected at all.
+- **Analytics.** On bensoyka.com and soyka.photos, I use
+  [PostHog](https://posthog.com) in cookieless mode to understand how the sites
+  are used. It records pages you view, where you click and scroll, the page that
+  referred you, your browser and device type, how quickly pages load, and your
+  approximate location derived from your IP address. It doesn't store anything
+  in your browser; instead, PostHog counts unique visitors with a hash
+  calculated on its servers. If your browser sends a "Do Not Track" signal, no
+  analytics are collected at all.
 - **Hosting and security logs.** All of my domains run through Cloudflare, which
   processes your IP address and request details to deliver pages, block abuse,
   and give me aggregate traffic statistics. Some features (like the "fun facts"
@@ -50,11 +51,11 @@ choices you make on them don't change how I handle what I receive.
   which records each click's time, referring page, browser and device type, and
   approximate location derived from your IP address, so I can see how often a
   link is used.
-- **soyka.photos.** My photography site is hosted by Pixieset, which collects
-  visitor information under its own privacy policy. If you use its contact form,
-  your name, email address, and message are sent to me by email. If you choose
-  to join my email list there, Pixieset stores your email address so I can send
-  you occasional updates; every email has an unsubscribe link.
+- **soyka.photos.** My photography site is hosted by Pixieset, which also
+  collects visitor information under its own privacy policy. If you use its
+  contact form, your name, email address, and message are sent to me by email.
+  If you choose to join my email list there, Pixieset stores your email address
+  so I can send you occasional updates; every email has an unsubscribe link.
 - **Private tools.** The tools on `bensoyka.net` are for my own use. If I give
   you access to one, Cloudflare records the email address you sign in with and
   when you signed in.
@@ -200,8 +201,8 @@ You can ask me to:
 Email me at the address below and I'll respond within 30 days. I may need to
 confirm your identity before acting on a request.
 
-To opt out of analytics on bensoyka.com, turn on "Do Not Track" in your browser,
-or use a content blocker.
+To opt out of analytics on my sites, turn on "Do Not Track" in your browser, or
+use a content blocker.
 
 ## Changes to This Policy
 
